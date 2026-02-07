@@ -22,8 +22,7 @@
 
 ## Технологии
 
-- Python 3.10+
-- [PennyLane](https://pennylane.ai/) (квантовое машинное обучение)
+- [PennyLane](https://github.com/PennyLaneAI/pennylane?ysclid=mlcur65i9n159127497) (квантовое машинное обучение)
 - PyTorch (классическая нейросеть)
 - scikit-learn (датасеты и метрики)
 - Matplotlib / Seaborn (визуализация)
