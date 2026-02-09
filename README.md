@@ -1,4 +1,4 @@
-# VQC vs MLP
+# Variational Quantum Classifier vs классическая нейросеть (MLP)
 
 ## О проекте
 
