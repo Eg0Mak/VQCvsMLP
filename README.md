@@ -1,4 +1,4 @@
-# Variational Quantum Classifier vs MLP
+# Quantum vs Classical: A Comparative Study of Variational Quantum Classifiers and Neural Networks on Synthetic Data / Квант против классики: Сравнительное исследование вариационных квантовых классификаторов и нейросетей на синтетических данных
 
 ## О проекте
 
