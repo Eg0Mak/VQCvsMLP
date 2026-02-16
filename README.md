@@ -1,4 +1,11 @@
-# Quantum vs Classical: A Comparative Study of Variational Quantum Classifiers and Neural Networks on Synthetic Data / Квант против классики: Сравнительное исследование вариационных квантовых классификаторов и нейросетей на синтетических данных
+<center>
+
+# Quantum vs Classical: A Comparative Study of Variational Quantum Classifiers and Neural Networks on Synthetic Data
+
+## Квант против классики: Сравнительное исследование вариационных квантовых классификаторов и нейросетей на синтетических данных
+
+</center>
+
 
 ## О проекте
 
