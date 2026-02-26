@@ -278,7 +278,6 @@ $$
 ![Данные Circles и Moons](graphics/data.png)
 
 
-
 #### Circles — Distribution Metrics
 
 | Метрика                     | Значение |
