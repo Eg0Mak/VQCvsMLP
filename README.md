@@ -400,6 +400,13 @@ $$
 
 ---
 
+#### Исследование локальных скачков на кривой обучения (VQC_hybrid: 2 qubits, Circles)
+
+![Training plot leap](graphics/train_leap.png)
+
+
+---
+
 ### Moons — MLP
 
 **Confusion Matrix**  
