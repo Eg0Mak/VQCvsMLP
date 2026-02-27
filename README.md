@@ -307,6 +307,43 @@ $$
 | class1_variance_sum         | 1.526838 |
 | fisher_ratio                | 0.000036 |
 
+
+<div style="display: flex; gap: 40px;">
+
+<div>
+#### Circles — Distribution Metrics
+
+| Метрика                     | Значение |
+| --------------------------- | -------- |
+| radial_overlap              | 0.659320 |
+| bayes_error_approx          | 0.329660 |
+| bayes_accuracy_upper_bound  | 0.670340 |
+| mean_margin                 | 0.360847 |
+| std_margin                  | 0.266876 |
+| near_boundary_fraction_<0.1 | 0.169600 |
+| class0_radial_variance      | 0.171138 |
+| class1_radial_variance      | 0.169689 |
+| fisher_ratio                | 0.364050 |
+</div>
+
+<div>
+#### Moons — Distribution Metrics
+
+| Метрика                     | Значение |
+| --------------------------- | -------- |
+| kde_overlap                 | 0.007559 |
+| bayes_error_approx          | 0.003779 |
+| bayes_accuracy_upper_bound  | 0.996221 |
+| mean_margin                 | 1.370841 |
+| std_margin                  | 0.752458 |
+| near_boundary_fraction_<0.1 | 0.023600 |
+| class0_variance_sum         | 2.473090 |
+| class1_variance_sum         | 1.526838 |
+| fisher_ratio                | 0.000036 |
+</div>
+
+</div>
+
 ---
 #### Краткое описание метрик распределения (Circles)
 
