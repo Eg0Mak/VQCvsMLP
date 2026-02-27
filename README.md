@@ -307,10 +307,10 @@ $$
 | class1_variance_sum         | 1.526838 |
 | fisher_ratio                | 0.000036 |
 
+<table>
+<tr>
+<td>
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-
-<div style="display: inline-block; width: 48%; vertical-align: top;">
 #### Circles — Distribution Metrics
 
 | Метрика                     | Значение |
@@ -324,9 +324,10 @@ $$
 | class0_radial_variance      | 0.171138 |
 | class1_radial_variance      | 0.169689 |
 | fisher_ratio                | 0.364050 |
-</div>
 
-<div style="display: inline-block; width: 48%; vertical-align: top;">
+</td>
+<td>
+
 #### Moons — Distribution Metrics
 
 | Метрика                     | Значение |
@@ -340,10 +341,10 @@ $$
 | class0_variance_sum         | 2.473090 |
 | class1_variance_sum         | 1.526838 |
 | fisher_ratio                | 0.000036 |
-</div>
 
-</div>
-
+</td>
+</tr>
+</table>
 ---
 #### Краткое описание метрик распределения (Circles)
 
