@@ -114,7 +114,7 @@ R_i(\theta_i) = R_X(\theta_i^x) R_Y(\theta_i^y) R_Z(\theta_i^z)
 U(\Theta) = \prod_{l=1}^{L} \Big(\text{EntangleLayer} \cdot \bigotimes_i R_i(\theta_i^{(l)}) \Big)
 ```
 
-где (\Theta) — набор всех параметров, которые оптимизируются в процессе обучения.
+где ($\Theta$) — набор всех параметров, которые оптимизируются в процессе обучения.
 
 **Кодирование входных данных и выход:**
 Входные данные (\mathbf{x}) кодируются через AngleEmbedding:
